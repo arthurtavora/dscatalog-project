@@ -1,11 +1,11 @@
-import Home from 'pages/Home';
+import Catalog from 'pages/Home/Catalog';
 import './assets/styles/custom.scss';
 import './App.css';
 
 const App = () => {
   return (
-    <Home />
-  );
+    <Catalog />
+  ); 
 }
 
 export default App;
