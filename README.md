@@ -2,7 +2,7 @@
 
 ## Sobre o projeto (Em desenvolvimento)
 
-DSCatalog é uma aplicação full stack web que venho desenvolvendo durante o módulo Spring-React da instituição de ensino [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior").
+DSCatalog é uma aplicação full stack web que venho desenvolvendo durante o módulo [Spring-React](https://s3.sa-east-1.amazonaws.com/educandoweb.com.br/bds/bootcamp-spring-react-devsuperior-ementa.png "Ementa Spring-React") da instituição de ensino [DevSuperior](https://devsuperior.com.br/ "Site da DevSuperior").
 
 A aplicação consiste em um catálogo de venda de produtos, onde os dados são cadastrados pelo usuário (admin) e depois são listados no app web.
 
