@@ -59,7 +59,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/arthurtavora/dscatalog-project.git
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd frontweb
 
 # instalar dependências
 yarn install
