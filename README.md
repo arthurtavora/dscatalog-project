@@ -1,4 +1,5 @@
 # DSCatalog 
+![NPM](https://img.shields.io/npm/l/react)](https://github.com/arthurtavora/dscatalog-project/blob/main/LICENSE)
 
 ## Sobre o projeto (Em desenvolvimento)
 
